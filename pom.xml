@@ -31,7 +31,7 @@
       <url>https://github.com/liveSense/org.liveSense.jdbc.mysql</url>
   </scm>  
 
-    <artifactId>org.liveSense.datasource.jdbc.mysql</artifactId>
+    <artifactId>org.liveSense.jdbc.mysql</artifactId>
     <version>5.1.18_1-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
