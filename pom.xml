@@ -32,7 +32,7 @@
   </scm>  
 
     <artifactId>org.liveSense.datasource.jdbc.mysql</artifactId>
-    <version>1.0.0-5.1.18-SNAPSHOT</version>
+    <version>5.1.18_1-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
     <name>liveSense Mysql JDBC driver</name>
