@@ -35,7 +35,7 @@
     <version>5.1.18_1-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
-    <name>liveSense Mysql JDBC driver</name>
+    <name>liveSense :: JDBC :: Mysql</name>
     <description>
 		This bundle contains the Mysql JDBC driver
     </description>
