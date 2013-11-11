@@ -19,26 +19,40 @@ This bundle contains the Mysql JDBC driver
 * org.gjt.mm.mysql(5.1.18)
 
 ## OSGi Dependencies
-* __System Bundle - org.apache.felix.framework (3.0.8)__
+* __System Bundle - org.apache.felix.framework (4.0.3)__
 	* javax.management
 	* javax.naming
 	* javax.naming.spi
 	* javax.net
 	* javax.net.ssl
 	* javax.sql
-	* javax.transaction.xa
+	* javax.xml.parsers
 	* javax.xml.parsers
 	* javax.xml.stream
+	* javax.xml.stream
+	* javax.xml.transform
 	* javax.xml.transform
 	* javax.xml.transform.dom
+	* javax.xml.transform.dom
+	* javax.xml.transform.sax
 	* javax.xml.transform.sax
 	* javax.xml.transform.stax
+	* javax.xml.transform.stax
+	* javax.xml.transform.stream
 	* javax.xml.transform.stream
 	* org.w3c.dom
+	* org.w3c.dom
+	* org.xml.sax
 	* org.xml.sax
 	* org.xml.sax.helpers
-* __slf4j-api - slf4j.api (1.6.1)__
+	* org.xml.sax.helpers
+* __OPS4J Pax Logging - API - org.ops4j.pax.logging.pax-logging-api (1.7.0)__
 	* org.slf4j
+	* org.slf4j
+	* org.slf4j
+	* org.slf4j
+* __geronimo-jta_1.1_spec - org.apache.geronimo.specs.geronimo-jta_1.1_spec (1.1.1)__
+	* INFO: javax.transaction.xa
 
 ## OSGi Embedded JARs
 * mysql-connector-java-5.1.18.jar
