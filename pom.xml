@@ -26,11 +26,11 @@
       <version>2-SNAPSHOT</version>
 		<relativePath>..</relativePath>
   </parent>
-  <scm>
-      <connection>scm:git:git://github.com/liveSense/org.liveSense.jdbc.mysql.git</connection>
-      <developerConnection>scm:git:git://github.com/liveSense/org.liveSense.jdbc.mysql.git</developerConnection>
-      <url>https://github.com/liveSense/org.liveSense.jdbc.mysql</url>
-  </scm>  
+	<scm>
+		<connection>scm:git:https://github.com/liveSense/org.liveSense.jdbc.mysql.git</connection>
+		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.jdbc.mysql.git</developerConnection>
+		<url>https://github.com/liveSense/org.liveSense.jdbc.mysql</url>
+	</scm>
 
     <artifactId>org.liveSense.jdbc.mysql</artifactId>
     <version>5.1.18_1-SNAPSHOT</version>
