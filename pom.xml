@@ -23,9 +23,11 @@
   <parent>
       <groupId>com.github.livesense</groupId>
       <artifactId>org.liveSense.parent</artifactId>
-      <version>2-SNAPSHOT</version>
+      <version>1.0.3</version>
 		<relativePath>..</relativePath>
   </parent>
+  <version>1.0.3-SNAPSHOT</version>
+
 	<scm>
 		<connection>scm:git:https://github.com/liveSense/org.liveSense.jdbc.mysql.git</connection>
 		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.jdbc.mysql.git</developerConnection>
@@ -33,7 +35,6 @@
 	</scm>
 
     <artifactId>org.liveSense.jdbc.mysql</artifactId>
-    <version>5.1.18_1-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
     <name>liveSense :: JDBC :: Mysql</name>
