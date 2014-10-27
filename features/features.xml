@@ -2,7 +2,7 @@
 
 <features name="liveSense-${liveSense.version}-jdbc-mysql" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
 	<feature name="liveSense-jdbc-mysql" version="${liveSense.jdbc.mysql.version}" description="liveSense Mysql JDBC Driver">
-		<feature>liveSense-core-apache-commons</feature>
+		<feature>apache-commons</feature>
 		<bundle>mvn:com.github.livesense/org.liveSense.jdbc.mysql/${liveSense.jdbc.mysql.version}</bundle>
 	</feature>
 </features>
